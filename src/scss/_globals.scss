@@ -5,7 +5,15 @@
   font-family: 'Karla', sans-serif;
 }
 
+body {
+  height: auto;
+  overflow: auto;
+}
 
 main {
   z-index: 1;
+}
+
+section {
+  margin: 2rem;
 }
